@@ -12,5 +12,10 @@ Implement a method #substrings that takes a word as the first argument and then 
 
 3. Project: Stock Picker
 Implement a method #stock_picker that takes in an array of stock prices, one for each hypothetical day. It should return a pair of days representing the best day to buy and the best day to sell. Days start at 0.
-4. Project: Bubble Sort
 
+4. Project: Bubble Sort
+One of the simpler (but more processor-intensive) ways of sorting a group of items in an array is bubble sort, where each element is compared to the one next to it and they are swapped if the one on the left is larger than the one on the right. This continues until the array is eventually sorted.
+
+Check out this video from Harvard’s CS50x on Bubble Sort.(https://www.youtube.com/watch?v=8Kp-8OGwphY)
+
+There’s also an entry on Bubble Sort on Wikipedia that’s worth taking a look at.(http://en.wikipedia.org/wiki/Bubble_sort)
